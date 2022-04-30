@@ -1,7 +1,9 @@
 # Explore Weather trends
 
 This project, Explore Weather trends, analyzes local and global temperature data and compare the temperature trends where you live (Delhi) to overall global temperature trends.
-![](weather.png) 
+
+<img width="473" alt="weather" src="https://user-images.githubusercontent.com/52135942/166119049-daaba779-5019-4b52-b1d4-286c6c6202a1.png">
+
 
 ## Questions answered
 
