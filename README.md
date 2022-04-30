@@ -34,14 +34,18 @@ This project, Explore Weather trends, analyzes local and global temperature data
 ## Visualization
 
 **Chart 1:** Average temperature trends: Global Vs Delhi
-![global_delhi_avg_temp.png](global_delhi_avg_temp.png)
+
+![global_delhi_avg_temp](https://user-images.githubusercontent.com/52135942/166119104-ef6e35cd-b551-4697-a373-c509e8cb6de0.png)
+
 
 **Chart 2:** 7-day moving average temperature trends: Global Vs Delhi
-![global_delhi_7dayMA.png](global_delhi_7dayMA.png)
+
+![global_delhi_7dayMA](https://user-images.githubusercontent.com/52135942/166119124-48968029-12f8-4270-8fa4-c7a60970835b.png)
 
 **Chart 3:** 10-day moving average temperature trends: Global Vs Delhi
-![global_delhi_10dayMA.png](global_delhi_10dayMA.png)
-    
+
+![global_delhi_10dayMA](https://user-images.githubusercontent.com/52135942/166119136-0c1a9902-e6a7-4b95-b72e-23ed51c607bb.png)
+
     
 **Observations:**
 
