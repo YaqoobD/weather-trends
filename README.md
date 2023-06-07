@@ -1,11 +1,11 @@
-# Explore Weather trends
+# Explore Weather Trends 🌦️📊
 
 This project, Explore Weather trends, analyzes local and global temperature data and compare the temperature trends where you live (Delhi) to overall global temperature trends.
 
 <img width="473" alt="weather" src="https://user-images.githubusercontent.com/52135942/166119049-daaba779-5019-4b52-b1d4-286c6c6202a1.png">
 
 
-## Questions answered
+## Questions Answered ❓
 
 1. What tools did you use for each step? (Python, SQL, Excel, etc)?
 
@@ -31,7 +31,7 @@ This project, Explore Weather trends, analyzes local and global temperature data
     The moving average is plotted to better visualize the trend in temperature.  
     The figures are not too cluttered and show the graph beautifully.
     
-## Visualization
+## Visualization 📈
 
 **Chart 1:** Average temperature trends: Global Vs Delhi
 
@@ -47,7 +47,7 @@ This project, Explore Weather trends, analyzes local and global temperature data
 ![global_delhi_10dayMA](https://user-images.githubusercontent.com/52135942/166119136-0c1a9902-e6a7-4b95-b72e-23ed51c607bb.png)
 
     
-**Observations:**
+## Observations 🧐
 
 * Delhi has higher temperature compared to the global average temperature.
 * It's quite evident from the graphs that the world is getting hotter.
